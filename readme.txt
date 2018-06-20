@@ -1,5 +1,5 @@
-进入code目录
+Enter /code
 
-python rankClus.py
+type: python rankClus.py
 
-依赖Python 3.6 和Numpy
+Require Python 3.6+ and Numpy
